@@ -27,6 +27,7 @@ If you would like to add a source you can simply create an issue or a merge requ
 * [SecureWorks Security/Malware ruleset](https://www.secureworks.com/contact/)
 * [OISF Traffic ID rules](https://openinfosecfoundation.org/rules/trafficid/trafficid.rules)
 * CrowdStrike
+* [Stamus Networks](https://www.stamus-networks.com/blog/new-open-ruleset-for-detecting-lateral-movement-with-suricata)
 
 Please also check [Suriata-Update's](https://github.com/OISF/suricata-update/) rule index for more sources.
 
